@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Bahşiş Tahmin Modeli</title>
 </head>
 <body>
 
